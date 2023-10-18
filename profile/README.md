@@ -4,6 +4,10 @@ Unity-SDS is a new approach to science data systems. Unity-SDS strives to bring 
 
 For detailed documentation, [checkout our gitbook](https://unity-sds.gitbook.io/docs/)!
 
+# Have an issue?
+
+To simplyfiy and centralize the issue process, please create an issue [here](https://github.com/unity-sds/issue-triage/issues)
+
 # Creating a new component?
 
 Please use the tempalte repository for creating new Unity-SDS components to ensure consitent look and feel, messaging, licenses, and required information.
